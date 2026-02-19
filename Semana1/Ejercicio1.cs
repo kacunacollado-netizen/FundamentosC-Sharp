@@ -1,0 +1,32 @@
+using System;
+
+namespace Ejercicio1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Ingresa tu nombre: ");
+            string nombre = Console.ReadLine();
+
+            Console.Write("Ingresa tu edad: ");
+            int edad = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Hola " + nombre + ", tienes " + edad + " años.");
+
+            int edadEnCinco = edad + 5;
+            Console.WriteLine("En 5 años tendrás " + edadEnCinco + " años.");
+
+            if (edad >= 18)
+            {
+                Console.WriteLine("Eres mayor de edad.");
+            }
+            else
+            {
+                Console.WriteLine("Eres menor de edad.");
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
