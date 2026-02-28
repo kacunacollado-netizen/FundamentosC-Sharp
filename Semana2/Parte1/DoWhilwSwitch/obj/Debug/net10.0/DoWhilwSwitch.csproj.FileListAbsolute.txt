@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\bin\Debug\net10.0\DoWhilwSwitch.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\bin\Debug\net10.0\DoWhilwSwitch.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\bin\Debug\net10.0\DoWhilwSwitch.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\bin\Debug\net10.0\DoWhilwSwitch.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\bin\Debug\net10.0\DoWhilwSwitch.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\refint\DoWhilwSwitch.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\DoWhilwSwitch.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\DoWhilwSwitch\obj\Debug\net10.0\ref\DoWhilwSwitch.dll
