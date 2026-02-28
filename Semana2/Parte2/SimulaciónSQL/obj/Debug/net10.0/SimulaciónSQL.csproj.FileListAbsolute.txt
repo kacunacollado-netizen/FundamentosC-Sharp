@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\bin\Debug\net10.0\SimulaciónSQL.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\bin\Debug\net10.0\SimulaciónSQL.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\bin\Debug\net10.0\SimulaciónSQL.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\bin\Debug\net10.0\SimulaciónSQL.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\bin\Debug\net10.0\SimulaciónSQL.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\refint\SimulaciónSQL.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\SimulaciónSQL.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\SimulaciónSQL\obj\Debug\net10.0\ref\SimulaciónSQL.dll
