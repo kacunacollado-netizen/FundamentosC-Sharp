@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\bin\Debug\net10.0\ValidarDatos.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\bin\Debug\net10.0\ValidarDatos.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\bin\Debug\net10.0\ValidarDatos.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\bin\Debug\net10.0\ValidarDatos.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\bin\Debug\net10.0\ValidarDatos.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\refint\ValidarDatos.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ValidarDatos.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\ValidarDatos\obj\Debug\net10.0\ref\ValidarDatos.dll
