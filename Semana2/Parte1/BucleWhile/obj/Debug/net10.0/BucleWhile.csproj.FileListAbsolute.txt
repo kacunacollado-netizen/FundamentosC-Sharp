@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\bin\Debug\net10.0\BucleWhile.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\bin\Debug\net10.0\BucleWhile.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\bin\Debug\net10.0\BucleWhile.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\bin\Debug\net10.0\BucleWhile.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\bin\Debug\net10.0\BucleWhile.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\refint\BucleWhile.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\BucleWhile.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\BucleWhile\obj\Debug\net10.0\ref\BucleWhile.dll
