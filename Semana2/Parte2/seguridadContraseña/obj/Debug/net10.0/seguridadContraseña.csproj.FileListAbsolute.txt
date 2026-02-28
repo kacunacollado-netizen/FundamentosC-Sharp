@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\bin\Debug\net10.0\seguridadContraseña.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\bin\Debug\net10.0\seguridadContraseña.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\bin\Debug\net10.0\seguridadContraseña.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\bin\Debug\net10.0\seguridadContraseña.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\bin\Debug\net10.0\seguridadContraseña.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\refint\seguridadContraseña.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\seguridadContraseña.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\seguridadContraseña\obj\Debug\net10.0\ref\seguridadContraseña.dll
