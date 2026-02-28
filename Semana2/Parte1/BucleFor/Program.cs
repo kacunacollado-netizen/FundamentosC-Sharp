@@ -1,0 +1,14 @@
+﻿for (int i = 1; i <= 50; i++)
+{
+    if (i % 5 == 0)
+    {
+        continue;
+    }
+
+    Console.WriteLine(i);
+
+    if (i == 25)
+    {
+        break;
+    }
+}
