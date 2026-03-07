@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\bin\Debug\net10.0\Semana3cot.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\bin\Debug\net10.0\Semana3cot.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\bin\Debug\net10.0\Semana3cot.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\bin\Debug\net10.0\Semana3cot.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\bin\Debug\net10.0\Semana3cot.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\refint\Semana3cot.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\Semana3cot.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\Semana3\Semana3cot\obj\Debug\net10.0\ref\Semana3cot.dll
