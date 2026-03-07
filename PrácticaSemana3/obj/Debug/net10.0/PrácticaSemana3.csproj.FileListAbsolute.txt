@@ -1,0 +1,14 @@
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.AssemblyInfoInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.AssemblyInfo.cs
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.csproj.CoreCompileInputs.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\bin\Debug\net10.0\PrácticaSemana3.exe
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\bin\Debug\net10.0\PrácticaSemana3.deps.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\bin\Debug\net10.0\PrácticaSemana3.runtimeconfig.json
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\bin\Debug\net10.0\PrácticaSemana3.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\bin\Debug\net10.0\PrácticaSemana3.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\refint\PrácticaSemana3.dll
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.pdb
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\PrácticaSemana3.genruntimeconfig.cache
+C:\Users\Karen Acuña\OneDrive\Desktop\repos\PrácticaSemana2\PrácticaSemana3\obj\Debug\net10.0\ref\PrácticaSemana3.dll
